@@ -1,0 +1,15 @@
+/Users/hebaomar/Desktop/hora/hora/bin/Debug/net6.0/hora
+/Users/hebaomar/Desktop/hora/hora/bin/Debug/net6.0/hora.deps.json
+/Users/hebaomar/Desktop/hora/hora/bin/Debug/net6.0/hora.runtimeconfig.json
+/Users/hebaomar/Desktop/hora/hora/bin/Debug/net6.0/hora.dll
+/Users/hebaomar/Desktop/hora/hora/bin/Debug/net6.0/hora.pdb
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.csproj.AssemblyReference.cache
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.AssemblyInfoInputs.cache
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.AssemblyInfo.cs
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.csproj.CoreCompileInputs.cache
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.dll
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/refint/hora.dll
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.pdb
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/hora.genruntimeconfig.cache
+/Users/hebaomar/Desktop/hora/hora/obj/Debug/net6.0/ref/hora.dll
