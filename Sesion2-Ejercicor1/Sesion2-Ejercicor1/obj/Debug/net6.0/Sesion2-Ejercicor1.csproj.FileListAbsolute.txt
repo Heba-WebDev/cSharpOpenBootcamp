@@ -1,0 +1,15 @@
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.csproj.AssemblyReference.cache
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.AssemblyInfoInputs.cache
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.AssemblyInfo.cs
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.csproj.CoreCompileInputs.cache
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/bin/Debug/net6.0/Sesion2-Ejercicor1
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/bin/Debug/net6.0/Sesion2-Ejercicor1.deps.json
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/bin/Debug/net6.0/Sesion2-Ejercicor1.runtimeconfig.json
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/bin/Debug/net6.0/Sesion2-Ejercicor1.dll
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/bin/Debug/net6.0/Sesion2-Ejercicor1.pdb
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.dll
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/refint/Sesion2-Ejercicor1.dll
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.pdb
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/Sesion2-Ejercicor1.genruntimeconfig.cache
+/Users/hebaomar/Desktop/Sesion2-Ejercicor1/Sesion2-Ejercicor1/obj/Debug/net6.0/ref/Sesion2-Ejercicor1.dll
