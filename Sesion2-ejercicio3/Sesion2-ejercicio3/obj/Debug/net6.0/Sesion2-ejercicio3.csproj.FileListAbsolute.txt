@@ -1,0 +1,15 @@
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/bin/Debug/net6.0/Sesion2-ejercicio3
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/bin/Debug/net6.0/Sesion2-ejercicio3.deps.json
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/bin/Debug/net6.0/Sesion2-ejercicio3.runtimeconfig.json
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/bin/Debug/net6.0/Sesion2-ejercicio3.dll
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/bin/Debug/net6.0/Sesion2-ejercicio3.pdb
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.csproj.AssemblyReference.cache
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.AssemblyInfoInputs.cache
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.AssemblyInfo.cs
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.csproj.CoreCompileInputs.cache
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.dll
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/refint/Sesion2-ejercicio3.dll
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.pdb
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/Sesion2-ejercicio3.genruntimeconfig.cache
+/Users/hebaomar/Desktop/Sesion2-ejercicio3/Sesion2-ejercicio3/obj/Debug/net6.0/ref/Sesion2-ejercicio3.dll
